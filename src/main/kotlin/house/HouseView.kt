@@ -2,7 +2,6 @@ package house
 
 import base.BaseView
 import base.NotFoundException
-import district.dto.CreateDistrictDto
 import house.dto.CreateHouseDto
 import house.dto.UpdateHouseDto
 

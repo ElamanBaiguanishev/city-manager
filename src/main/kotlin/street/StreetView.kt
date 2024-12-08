@@ -2,7 +2,6 @@ package street
 
 import base.BaseView
 import base.NotFoundException
-import district.dto.UpdateDistrictDto
 import street.dto.CreateStreetDto
 import street.dto.UpdateStreetDto
 

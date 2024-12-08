@@ -1,4 +1,4 @@
-package base;
+package base
 
 import kotlinx.serialization.*
 import kotlinx.serialization.descriptors.PrimitiveKind
