@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "id": "0233a5ce-bde9-4d80-9733-452553990b31",
+      "streetId": "8c050615-13ea-48ab-8c90-c57f5ba70015",
+      "houseNumber": "1",
+      "satisfaction": 8,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "888dd6b1-8167-4a46-9693-646d5b77901e",
+      "streetId": "8c050615-13ea-48ab-8c90-c57f5ba70015",
+      "houseNumber": "2",
+      "satisfaction": 8,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "754ed48c-86f7-4351-a22b-008ca7d94c7e",
+      "streetId": "8c050615-13ea-48ab-8c90-c57f5ba70015",
+      "houseNumber": "3",
+      "satisfaction": 4,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "e39514ad-9bd2-4d59-a752-b41d2313f832",
+      "streetId": "5ae760b6-7bdc-4979-8751-a8539c86f1b4",
+      "houseNumber": "1",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "1bc34da3-96ee-426d-9ded-c9d7661617cd",
+      "streetId": "5ae760b6-7bdc-4979-8751-a8539c86f1b4",
+      "houseNumber": "2",
+      "satisfaction": 4,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "373aa54d-a830-4081-90dd-c35490262167",
+      "streetId": "5ae760b6-7bdc-4979-8751-a8539c86f1b4",
+      "houseNumber": "3",
+      "satisfaction": 9,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "9fb95922-e7c3-4c39-b503-7df65603f682",
+      "streetId": "79bb362e-efba-4824-a76f-788a02af7ad7",
+      "houseNumber": "1",
+      "satisfaction": 1,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "c6f9b0c9-71b5-4ef1-97be-116f36558d6d",
+      "streetId": "79bb362e-efba-4824-a76f-788a02af7ad7",
+      "houseNumber": "2",
+      "satisfaction": 5,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "f7ff7acc-56e7-461e-aecb-5ae1cd8bcccc",
+      "streetId": "79bb362e-efba-4824-a76f-788a02af7ad7",
+      "houseNumber": "3",
+      "satisfaction": 1,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "e08dba9f-ce20-47c9-933a-4172a7c7be00",
+      "streetId": "57c60ab1-0e59-496b-b8e0-15e506e5f84d",
+      "houseNumber": "1",
+      "satisfaction": 1,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "6676caf9-0b0a-400a-954b-e1ff4e8baa9c",
+      "streetId": "57c60ab1-0e59-496b-b8e0-15e506e5f84d",
+      "houseNumber": "2",
+      "satisfaction": 8,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "92ed1eac-ca9f-4833-8f58-7a8213803ac3",
+      "streetId": "57c60ab1-0e59-496b-b8e0-15e506e5f84d",
+      "houseNumber": "3",
+      "satisfaction": 6,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "eb21701f-e351-4fee-aa9b-dac97df616e3",
+      "streetId": "ae5e9ec5-708c-4299-978e-9807305ba9d2",
+      "houseNumber": "1",
+      "satisfaction": 6,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "8c1bcd3e-bd18-494c-8775-9d1599868fd0",
+      "streetId": "ae5e9ec5-708c-4299-978e-9807305ba9d2",
+      "houseNumber": "2",
+      "satisfaction": 9,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "6bb0cd72-7ebb-434d-95bd-ea32ef33d735",
+      "streetId": "ae5e9ec5-708c-4299-978e-9807305ba9d2",
+      "houseNumber": "3",
+      "satisfaction": 8,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "d6ee4c95-312f-46b3-9c47-8fb7fe26b17d",
+      "streetId": "78357a64-8df5-497e-b9ad-4e7fb9c082cd",
+      "houseNumber": "1",
+      "satisfaction": 2,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "3791c1f2-660e-4045-b77c-56ee6b13e729",
+      "streetId": "78357a64-8df5-497e-b9ad-4e7fb9c082cd",
+      "houseNumber": "2",
+      "satisfaction": 4,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "a43fb313-4ff9-4e03-bf08-2c1b2766a9f7",
+      "streetId": "78357a64-8df5-497e-b9ad-4e7fb9c082cd",
+      "houseNumber": "3",
+      "satisfaction": 5,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "0cf6a50c-2a0f-402f-8ab0-c221b6db74aa",
+      "streetId": "ab1b38ff-ec20-4904-9c9d-570cb49b53f0",
+      "houseNumber": "1",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "ac650c88-8da4-4c93-a926-f5697356c677",
+      "streetId": "ab1b38ff-ec20-4904-9c9d-570cb49b53f0",
+      "houseNumber": "2",
+      "satisfaction": 1,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "a604d16c-2051-41e3-a0d6-83cfd024f7ee",
+      "streetId": "ab1b38ff-ec20-4904-9c9d-570cb49b53f0",
+      "houseNumber": "3",
+      "satisfaction": 5,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "e6d7923a-82ba-47a1-a55e-abffff389e97",
+      "streetId": "4c34eec0-ab3e-4679-a613-4645502c2034",
+      "houseNumber": "1",
+      "satisfaction": 10,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "a68cd83f-910c-4188-bc15-43653958e309",
+      "streetId": "4c34eec0-ab3e-4679-a613-4645502c2034",
+      "houseNumber": "2",
+      "satisfaction": 9,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "eac23bfb-a491-4a26-adf4-9b70fc926dff",
+      "streetId": "4c34eec0-ab3e-4679-a613-4645502c2034",
+      "houseNumber": "3",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "a3c2c97a-7a38-4d38-b894-f3bfc4fdbc89",
+      "streetId": "d9ba8a7e-aaee-4a12-8c54-dabec9afe903",
+      "houseNumber": "1",
+      "satisfaction": 3,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "f0ff3277-5390-42d4-bad9-35478ed43635",
+      "streetId": "d9ba8a7e-aaee-4a12-8c54-dabec9afe903",
+      "houseNumber": "2",
+      "satisfaction": 1,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "19135012-8111-4b4e-a0b9-29546b01a651",
+      "streetId": "d9ba8a7e-aaee-4a12-8c54-dabec9afe903",
+      "houseNumber": "3",
+      "satisfaction": 10,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "926a3f0d-1e99-4cc0-87e6-92610d7021de",
+      "streetId": "66d8c10b-56b2-40c2-a9c2-8f7cfb9345d8",
+      "houseNumber": "1",
+      "satisfaction": 2,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "f4fbd91e-2e28-482e-82d5-60b2004e7f7a",
+      "streetId": "66d8c10b-56b2-40c2-a9c2-8f7cfb9345d8",
+      "houseNumber": "2",
+      "satisfaction": 4,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "8e6fbcf6-35a3-499b-8362-89129741da70",
+      "streetId": "66d8c10b-56b2-40c2-a9c2-8f7cfb9345d8",
+      "houseNumber": "3",
+      "satisfaction": 9,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "559d99de-bc50-4f9d-bd13-c58ed5891a81",
+      "streetId": "129bd6df-a15c-4a15-8471-bf73b3dc717a",
+      "houseNumber": "1",
+      "satisfaction": 9,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "f17dee8e-87d0-4863-bd02-604e8af0c0d0",
+      "streetId": "129bd6df-a15c-4a15-8471-bf73b3dc717a",
+      "houseNumber": "2",
+      "satisfaction": 10,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "adf4f9c0-251a-4964-aab6-c76383ad56a5",
+      "streetId": "129bd6df-a15c-4a15-8471-bf73b3dc717a",
+      "houseNumber": "3",
+      "satisfaction": 8,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "cfaded24-287f-4c30-b5ee-692fd68a3801",
+      "streetId": "83f80e03-ad40-484c-a9f0-5e9a7ab86aaa",
+      "houseNumber": "1",
+      "satisfaction": 3,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "89bf94dd-85db-486e-9c03-dce813eff0c7",
+      "streetId": "83f80e03-ad40-484c-a9f0-5e9a7ab86aaa",
+      "houseNumber": "2",
+      "satisfaction": 3,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "b5b50dac-4a40-4c99-9066-348ac97dad1d",
+      "streetId": "83f80e03-ad40-484c-a9f0-5e9a7ab86aaa",
+      "houseNumber": "3",
+      "satisfaction": 4,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "2fb9123c-d8be-48f4-a5e7-c9842b712e5b",
+      "streetId": "aaeb0f29-eee9-423d-9085-7ad8c259b64c",
+      "houseNumber": "1",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "7df3af3d-009f-4131-92b7-1cc1b473bd28",
+      "streetId": "aaeb0f29-eee9-423d-9085-7ad8c259b64c",
+      "houseNumber": "2",
+      "satisfaction": 3,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "28387468-d21b-4ad2-853d-bd53f1bfec15",
+      "streetId": "aaeb0f29-eee9-423d-9085-7ad8c259b64c",
+      "houseNumber": "3",
+      "satisfaction": 5,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "6b9b9175-faba-470f-837f-28422a54fead",
+      "streetId": "744c5da0-ef21-49b6-a7b3-b0cf09257ca0",
+      "houseNumber": "1",
+      "satisfaction": 6,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "1532073a-5b7d-40c5-83d3-770fad5db090",
+      "streetId": "744c5da0-ef21-49b6-a7b3-b0cf09257ca0",
+      "houseNumber": "2",
+      "satisfaction": 3,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "c5e9f664-fa3c-4327-bdb5-e483439b0d95",
+      "streetId": "744c5da0-ef21-49b6-a7b3-b0cf09257ca0",
+      "houseNumber": "3",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "1cb62c50-a4f5-403c-a82b-edb8895d9075",
+      "streetId": "83f3f490-73cb-4bbd-a840-ba9394033e69",
+      "houseNumber": "1",
+      "satisfaction": 10,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "b94c4e84-ef5c-4310-af05-660d23d38584",
+      "streetId": "83f3f490-73cb-4bbd-a840-ba9394033e69",
+      "houseNumber": "2",
+      "satisfaction": 7,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    },
+    {
+      "id": "25a43dc0-6dea-4e1d-bb52-e099fba87d3c",
+      "streetId": "83f3f490-73cb-4bbd-a840-ba9394033e69",
+      "houseNumber": "3",
+      "satisfaction": 5,
+      "createdAt": "Sat Dec 07 23:45:49 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:45:49 GMT+06:00 2024"
+    }
+  ]
+}

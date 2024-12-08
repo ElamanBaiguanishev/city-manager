@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": "8c050615-13ea-48ab-8c90-c57f5ba70015",
+      "name": "70 лет Октября",
+      "districtId": "96f4850b-f2bc-4e12-b9df-54b3b41d1341",
+      "createdAt": "Sat Dec 07 22:58:21 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 22:58:21 GMT+06:00 2024"
+    },
+    {
+      "id": "5ae760b6-7bdc-4979-8751-a8539c86f1b4",
+      "name": "Конева",
+      "districtId": "96f4850b-f2bc-4e12-b9df-54b3b41d1341",
+      "createdAt": "Sat Dec 07 22:58:55 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 22:58:55 GMT+06:00 2024"
+    },
+    {
+      "id": "79bb362e-efba-4824-a76f-788a02af7ad7",
+      "name": "бульвар Архитекторов",
+      "districtId": "96f4850b-f2bc-4e12-b9df-54b3b41d1341",
+      "createdAt": "Sat Dec 07 22:59:10 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 22:59:10 GMT+06:00 2024"
+    },
+    {
+      "id": "57c60ab1-0e59-496b-b8e0-15e506e5f84d",
+      "name": "Иртышская набережная",
+      "districtId": "ea30a024-f171-4e7b-bc31-b5c3c3348111",
+      "createdAt": "Sat Dec 07 22:59:58 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 22:59:58 GMT+06:00 2024"
+    },
+    {
+      "id": "ae5e9ec5-708c-4299-978e-9807305ba9d2",
+      "name": "Улица Серова",
+      "districtId": "ea30a024-f171-4e7b-bc31-b5c3c3348111",
+      "createdAt": "Sat Dec 07 23:00:36 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:00:36 GMT+06:00 2024"
+    },
+    {
+      "id": "78357a64-8df5-497e-b9ad-4e7fb9c082cd",
+      "name": "Богдана Хмельницкого",
+      "districtId": "9c423835-e8c4-4036-9cff-f0d333e3f3bb",
+      "createdAt": "Sat Dec 07 23:07:33 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:07:33 GMT+06:00 2024"
+    },
+    {
+      "id": "ab1b38ff-ec20-4904-9c9d-570cb49b53f0",
+      "name": "Лизы Чайкиной",
+      "districtId": "9c423835-e8c4-4036-9cff-f0d333e3f3bb",
+      "createdAt": "Sat Dec 07 23:08:03 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:08:03 GMT+06:00 2024"
+    },
+    {
+      "id": "4c34eec0-ab3e-4679-a613-4645502c2034",
+      "name": "Масленникова",
+      "districtId": "9c423835-e8c4-4036-9cff-f0d333e3f3bb",
+      "createdAt": "Sat Dec 07 23:09:15 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:09:15 GMT+06:00 2024"
+    },
+    {
+      "id": "d9ba8a7e-aaee-4a12-8c54-dabec9afe903",
+      "name": "22 Апреля",
+      "districtId": "9fad511c-3363-4371-a6aa-7d94409ab3e2",
+      "createdAt": "Sat Dec 07 23:10:05 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:10:05 GMT+06:00 2024"
+    },
+    {
+      "id": "66d8c10b-56b2-40c2-a9c2-8f7cfb9345d8",
+      "name": "Проспект Менделеева",
+      "districtId": "9fad511c-3363-4371-a6aa-7d94409ab3e2",
+      "createdAt": "Sat Dec 07 23:10:38 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:10:38 GMT+06:00 2024"
+    },
+    {
+      "id": "129bd6df-a15c-4a15-8471-bf73b3dc717a",
+      "name": "Карла Маркса",
+      "districtId": "ea30a024-f171-4e7b-bc31-b5c3c3348111",
+      "createdAt": "Sat Dec 07 23:15:56 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:15:56 GMT+06:00 2024"
+    },
+    {
+      "id": "83f80e03-ad40-484c-a9f0-5e9a7ab86aaa",
+      "name": "Красный путь",
+      "districtId": "9fad511c-3363-4371-a6aa-7d94409ab3e2",
+      "createdAt": "Sat Dec 07 23:17:40 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:17:40 GMT+06:00 2024"
+    },
+    {
+      "id": "aaeb0f29-eee9-423d-9085-7ad8c259b64c",
+      "name": "Богдана Хмельницкого",
+      "districtId": "9ee7e125-6f4c-412c-b9ed-dc77d5e95707",
+      "createdAt": "Sat Dec 07 23:22:46 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:22:46 GMT+06:00 2024"
+    },
+    {
+      "id": "744c5da0-ef21-49b6-a7b3-b0cf09257ca0",
+      "name": "Куйбышева",
+      "districtId": "9ee7e125-6f4c-412c-b9ed-dc77d5e95707",
+      "createdAt": "Sat Dec 07 23:22:59 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:22:59 GMT+06:00 2024"
+    },
+    {
+      "id": "83f3f490-73cb-4bbd-a840-ba9394033e69",
+      "name": "Маршала Жукова",
+      "districtId": "9ee7e125-6f4c-412c-b9ed-dc77d5e95707",
+      "createdAt": "Sat Dec 07 23:23:24 GMT+06:00 2024",
+      "updatedAt": "Sat Dec 07 23:23:24 GMT+06:00 2024"
+    }
+  ]
+}
